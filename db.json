@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Primul post",
+      "content": "Aceasta este o postare de test."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    }
+  ]
+}
